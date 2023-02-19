@@ -1,3 +1,6 @@
+# IDE folder
+.idea/
+
 # build output
 dist/
 # generated types
